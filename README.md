@@ -41,4 +41,11 @@ Includes player names, live score tracking, and an animated victory popup 🏆
 
 ## 📂 Project Structure
 
-
+TicTacToe/
+│
+├── src/
+│ └── TicTacToe.java
+│
+├── bin/ (Compiled files)
+├── lib/ (Libraries if added)
+└── README.md
