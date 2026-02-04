@@ -1,18 +1,44 @@
-## Getting Started
+# 🎮 Tic-Tac-Toe Game (Java Swing)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A stylish **2-Player Tic-Tac-Toe desktop game** built using **Java Swing**.  
+Includes player names, live score tracking, and an animated victory popup 🏆
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## ✨ Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+✅ Two-player gameplay (X vs O)  
+✅ Players enter their names at the start  
+✅ Live scoreboard  
+✅ Stylish victory popup window  
+✅ Sound alert when someone wins 🔔  
+✅ Automatic board reset after each round  
+✅ Tie detection  
+✅ Clean dark-themed UI  
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🖥️ Game Preview
 
-## Dependency Management
+| Feature | Description |
+|--------|-------------|
+| 🎯 Gameplay | Classic 3x3 Tic-Tac-Toe |
+| 🧑‍🤝‍🧑 Players | 2 Human Players |
+| 🏆 Winner Popup | Custom styled dialog |
+| 📊 Scoreboard | Tracks wins for both players |
+| 🔁 Reset | Auto reset after each match |
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠️ Tech Used
+
+- **Java**
+- **Swing (GUI)**
+- **AWT**
+- Event Listeners
+
+---
+
+## 📂 Project Structure
+
+
